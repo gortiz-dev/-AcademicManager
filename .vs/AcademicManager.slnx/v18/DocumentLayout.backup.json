@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\willy\\OneDrive\\Desktop\\AcademicManager\\AcademicManager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{019CE5A9-35ED-4F67-A8A1-A165E204D43C}|AcademicManager.csproj|c:\\users\\willy\\onedrive\\desktop\\academicmanager\\academicmanager\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{019CE5A9-35ED-4F67-A8A1-A165E204D43C}|AcademicManager.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{51247DAF-AE58-2FB0-CA25-3F0D478C7A54}|AcademicManager.csproj|c:\\users\\willy\\onedrive\\desktop\\academicmanager\\academicmanager\\domain\\entities\\docente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51247DAF-AE58-2FB0-CA25-3F0D478C7A54}|AcademicManager.csproj|solutionrelative:domain\\entities\\docente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51247DAF-AE58-2FB0-CA25-3F0D478C7A54}|AcademicManager.csproj|c:\\users\\willy\\onedrive\\desktop\\academicmanager\\academicmanager\\domain\\entities\\detalle_inscripcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51247DAF-AE58-2FB0-CA25-3F0D478C7A54}|AcademicManager.csproj|solutionrelative:domain\\entities\\detalle_inscripcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51247DAF-AE58-2FB0-CA25-3F0D478C7A54}|AcademicManager.csproj|c:\\users\\willy\\onedrive\\desktop\\academicmanager\\academicmanager\\domain\\entities\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51247DAF-AE58-2FB0-CA25-3F0D478C7A54}|AcademicManager.csproj|solutionrelative:domain\\entities\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51247DAF-AE58-2FB0-CA25-3F0D478C7A54}|AcademicManager.csproj|c:\\users\\willy\\onedrive\\desktop\\academicmanager\\academicmanager\\domain\\entities\\alumno_padre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51247DAF-AE58-2FB0-CA25-3F0D478C7A54}|AcademicManager.csproj|solutionrelative:domain\\entities\\alumno_padre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51247DAF-AE58-2FB0-CA25-3F0D478C7A54}|AcademicManager.csproj|c:\\users\\willy\\onedrive\\desktop\\academicmanager\\academicmanager\\domain\\entities\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51247DAF-AE58-2FB0-CA25-3F0D478C7A54}|AcademicManager.csproj|solutionrelative:domain\\entities\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +35,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "C:\\Users\\willy\\OneDrive\\Desktop\\AcademicManager\\AcademicManager\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "WeatherForecast.cs",
-              "ToolTip": "C:\\Users\\willy\\OneDrive\\Desktop\\AcademicManager\\AcademicManager\\WeatherForecast.cs",
-              "RelativeToolTip": "WeatherForecast.cs",
+              "Title": "Docente.cs",
+              "DocumentMoniker": "C:\\Users\\willy\\OneDrive\\Desktop\\AcademicManager\\AcademicManager\\Domain\\Entities\\Docente.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Docente.cs",
+              "ToolTip": "C:\\Users\\willy\\OneDrive\\Desktop\\AcademicManager\\AcademicManager\\Domain\\Entities\\Docente.cs",
+              "RelativeToolTip": "Domain\\Entities\\Docente.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-09T23:06:16.122Z",
+              "WhenOpened": "2026-01-11T22:45:22.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Detalle_inscripcion.cs",
+              "DocumentMoniker": "C:\\Users\\willy\\OneDrive\\Desktop\\AcademicManager\\AcademicManager\\Domain\\Entities\\Detalle_inscripcion.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Detalle_inscripcion.cs",
+              "ToolTip": "C:\\Users\\willy\\OneDrive\\Desktop\\AcademicManager\\AcademicManager\\Domain\\Entities\\Detalle_inscripcion.cs",
+              "RelativeToolTip": "Domain\\Entities\\Detalle_inscripcion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T22:42:38.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Curso.cs",
+              "DocumentMoniker": "C:\\Users\\willy\\OneDrive\\Desktop\\AcademicManager\\AcademicManager\\Domain\\Entities\\Curso.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Curso.cs",
+              "ToolTip": "C:\\Users\\willy\\OneDrive\\Desktop\\AcademicManager\\AcademicManager\\Domain\\Entities\\Curso.cs",
+              "RelativeToolTip": "Domain\\Entities\\Curso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T22:36:06.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Alumno_padre.cs",
+              "DocumentMoniker": "C:\\Users\\willy\\OneDrive\\Desktop\\AcademicManager\\AcademicManager\\Domain\\Entities\\Alumno_padre.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Alumno_padre.cs",
+              "ToolTip": "C:\\Users\\willy\\OneDrive\\Desktop\\AcademicManager\\AcademicManager\\Domain\\Entities\\Alumno_padre.cs",
+              "RelativeToolTip": "Domain\\Entities\\Alumno_padre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T22:28:53.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Alumno.cs",
+              "DocumentMoniker": "C:\\Users\\willy\\OneDrive\\Desktop\\AcademicManager\\AcademicManager\\Domain\\Entities\\Alumno.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Alumno.cs",
+              "ToolTip": "C:\\Users\\willy\\OneDrive\\Desktop\\AcademicManager\\AcademicManager\\Domain\\Entities\\Alumno.cs",
+              "RelativeToolTip": "Domain\\Entities\\Alumno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T21:51:56.186Z",
               "EditorCaption": ""
             }
           ]
