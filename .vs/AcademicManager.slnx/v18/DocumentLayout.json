@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\willy\\OneDrive\\Desktop\\AcademicManager\\AcademicManager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{51247DAF-AE58-2FB0-CA25-3F0D478C7A54}|AcademicManager.csproj|c:\\users\\willy\\onedrive\\desktop\\academicmanager\\academicmanager\\domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51247DAF-AE58-2FB0-CA25-3F0D478C7A54}|AcademicManager.csproj|solutionrelative:domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{51247DAF-AE58-2FB0-CA25-3F0D478C7A54}|AcademicManager.csproj|c:\\users\\willy\\onedrive\\desktop\\academicmanager\\academicmanager\\infrastructure\\data\\dbcontextsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51247DAF-AE58-2FB0-CA25-3F0D478C7A54}|AcademicManager.csproj|solutionrelative:infrastructure\\data\\dbcontextsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51247DAF-AE58-2FB0-CA25-3F0D478C7A54}|AcademicManager.csproj|c:\\users\\willy\\onedrive\\desktop\\academicmanager\\academicmanager\\infrastructure\\repositories\\alumnorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51247DAF-AE58-2FB0-CA25-3F0D478C7A54}|AcademicManager.csproj|solutionrelative:infrastructure\\repositories\\alumnorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51247DAF-AE58-2FB0-CA25-3F0D478C7A54}|AcademicManager.csproj|c:\\users\\willy\\onedrive\\desktop\\academicmanager\\academicmanager\\domain\\interfaces\\ialumnorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51247DAF-AE58-2FB0-CA25-3F0D478C7A54}|AcademicManager.csproj|solutionrelative:domain\\interfaces\\ialumnorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\willy\\OneDrive\\Desktop\\AcademicManager\\AcademicManager\\Domain\\Entities\\Usuario.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\Usuario.cs",
-              "ToolTip": "C:\\Users\\willy\\OneDrive\\Desktop\\AcademicManager\\AcademicManager\\Domain\\Entities\\Usuario.cs",
-              "RelativeToolTip": "Domain\\Entities\\Usuario.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBgAAAABAAAAAAAAAA==",
+              "Title": "DbContextSql.cs",
+              "DocumentMoniker": "C:\\Users\\willy\\OneDrive\\Desktop\\AcademicManager\\AcademicManager\\Infrastructure\\Data\\DbContextSql.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\DbContextSql.cs",
+              "ToolTip": "C:\\Users\\willy\\OneDrive\\Desktop\\AcademicManager\\AcademicManager\\Infrastructure\\Data\\DbContextSql.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\DbContextSql.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T23:25:45.875Z",
+              "WhenOpened": "2026-01-14T02:47:57.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AlumnoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\willy\\OneDrive\\Desktop\\AcademicManager\\AcademicManager\\Infrastructure\\Repositories\\AlumnoRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\AlumnoRepository.cs",
+              "ToolTip": "C:\\Users\\willy\\OneDrive\\Desktop\\AcademicManager\\AcademicManager\\Infrastructure\\Repositories\\AlumnoRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\AlumnoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T01:45:25.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAlumnoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\willy\\OneDrive\\Desktop\\AcademicManager\\AcademicManager\\Domain\\Interfaces\\IAlumnoRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IAlumnoRepository.cs",
+              "ToolTip": "C:\\Users\\willy\\OneDrive\\Desktop\\AcademicManager\\AcademicManager\\Domain\\Interfaces\\IAlumnoRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IAlumnoRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T01:34:15.136Z",
               "EditorCaption": ""
             }
           ]

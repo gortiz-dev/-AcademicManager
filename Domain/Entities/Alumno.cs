@@ -6,7 +6,7 @@ namespace AcademicManager.Domain.Entities
     public class Alumno
     {
         [Key]
-        public  string id_alumno {  get; set; }
+        public  int id_alumno {  get; set; }
         [Required]
         public string nombre { get; set; }
         [Required]

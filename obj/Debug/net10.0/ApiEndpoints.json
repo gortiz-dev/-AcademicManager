@@ -1,6 +1,6 @@
 [
   {
-    "ContainingType": "AcademicManager.Controllers.WeatherForecastController",
+    "ContainingType": "AcademicManager.API.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",
     "HttpMethod": "GET",
