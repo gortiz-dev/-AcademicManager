@@ -3,8 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\willy\\OneDrive\\Desktop\\AcademicManager\\AcademicManager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{51247DAF-AE58-2FB0-CA25-3F0D478C7A54}|AcademicManager.csproj|c:\\users\\willy\\onedrive\\desktop\\academicmanager\\academicmanager\\domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51247DAF-AE58-2FB0-CA25-3F0D478C7A54}|AcademicManager.csproj|solutionrelative:domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{51247DAF-AE58-2FB0-CA25-3F0D478C7A54}|AcademicManager.csproj|c:\\users\\willy\\onedrive\\desktop\\academicmanager\\academicmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51247DAF-AE58-2FB0-CA25-3F0D478C7A54}|AcademicManager.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51247DAF-AE58-2FB0-CA25-3F0D478C7A54}|AcademicManager.csproj|c:\\users\\willy\\onedrive\\desktop\\academicmanager\\academicmanager\\api\\controllers\\alumnocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51247DAF-AE58-2FB0-CA25-3F0D478C7A54}|AcademicManager.csproj|solutionrelative:api\\controllers\\alumnocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51247DAF-AE58-2FB0-CA25-3F0D478C7A54}|AcademicManager.csproj|c:\\users\\willy\\onedrive\\desktop\\academicmanager\\academicmanager\\infrastructure\\repositories\\alumno_padrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51247DAF-AE58-2FB0-CA25-3F0D478C7A54}|AcademicManager.csproj|solutionrelative:infrastructure\\repositories\\alumno_padrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51247DAF-AE58-2FB0-CA25-3F0D478C7A54}|AcademicManager.csproj|c:\\users\\willy\\onedrive\\desktop\\academicmanager\\academicmanager\\infrastructure\\repositories\\alumnorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51247DAF-AE58-2FB0-CA25-3F0D478C7A54}|AcademicManager.csproj|solutionrelative:infrastructure\\repositories\\alumnorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51247DAF-AE58-2FB0-CA25-3F0D478C7A54}|AcademicManager.csproj|c:\\users\\willy\\onedrive\\desktop\\academicmanager\\academicmanager\\domain\\interfaces\\ialumnorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51247DAF-AE58-2FB0-CA25-3F0D478C7A54}|AcademicManager.csproj|solutionrelative:domain\\interfaces\\ialumnorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51247DAF-AE58-2FB0-CA25-3F0D478C7A54}|AcademicManager.csproj|c:\\users\\willy\\onedrive\\desktop\\academicmanager\\academicmanager\\domain\\entities\\alumno_padre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51247DAF-AE58-2FB0-CA25-3F0D478C7A54}|AcademicManager.csproj|solutionrelative:domain\\entities\\alumno_padre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51247DAF-AE58-2FB0-CA25-3F0D478C7A54}|AcademicManager.csproj|c:\\users\\willy\\onedrive\\desktop\\academicmanager\\academicmanager\\domain\\entities\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51247DAF-AE58-2FB0-CA25-3F0D478C7A54}|AcademicManager.csproj|solutionrelative:domain\\entities\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +38,98 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\willy\\OneDrive\\Desktop\\AcademicManager\\AcademicManager\\Domain\\Entities\\Usuario.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\Usuario.cs",
-              "ToolTip": "C:\\Users\\willy\\OneDrive\\Desktop\\AcademicManager\\AcademicManager\\Domain\\Entities\\Usuario.cs",
-              "RelativeToolTip": "Domain\\Entities\\Usuario.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBgAAAABAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Alumno_padre.cs",
+              "DocumentMoniker": "C:\\Users\\willy\\OneDrive\\Desktop\\AcademicManager\\AcademicManager\\Domain\\Entities\\Alumno_padre.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Alumno_padre.cs",
+              "ToolTip": "C:\\Users\\willy\\OneDrive\\Desktop\\AcademicManager\\AcademicManager\\Domain\\Entities\\Alumno_padre.cs",
+              "RelativeToolTip": "Domain\\Entities\\Alumno_padre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T23:25:45.875Z",
+              "WhenOpened": "2026-03-31T23:32:21.964Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\willy\\OneDrive\\Desktop\\AcademicManager\\AcademicManager\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\willy\\OneDrive\\Desktop\\AcademicManager\\AcademicManager\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T15:43:14.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AlumnoController.cs",
+              "DocumentMoniker": "C:\\Users\\willy\\OneDrive\\Desktop\\AcademicManager\\AcademicManager\\API\\Controllers\\AlumnoController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\AlumnoController.cs",
+              "ToolTip": "C:\\Users\\willy\\OneDrive\\Desktop\\AcademicManager\\AcademicManager\\API\\Controllers\\AlumnoController.cs",
+              "RelativeToolTip": "API\\Controllers\\AlumnoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T15:41:31.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Alumno.cs",
+              "DocumentMoniker": "C:\\Users\\willy\\OneDrive\\Desktop\\AcademicManager\\AcademicManager\\Domain\\Entities\\Alumno.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Alumno.cs",
+              "ToolTip": "C:\\Users\\willy\\OneDrive\\Desktop\\AcademicManager\\AcademicManager\\Domain\\Entities\\Alumno.cs",
+              "RelativeToolTip": "Domain\\Entities\\Alumno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T23:45:39.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAlumnoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\willy\\OneDrive\\Desktop\\AcademicManager\\AcademicManager\\Domain\\Interfaces\\IAlumnoRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IAlumnoRepository.cs",
+              "ToolTip": "C:\\Users\\willy\\OneDrive\\Desktop\\AcademicManager\\AcademicManager\\Domain\\Interfaces\\IAlumnoRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IAlumnoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T23:36:55.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Alumno_padreRepository.cs",
+              "DocumentMoniker": "C:\\Users\\willy\\OneDrive\\Desktop\\AcademicManager\\AcademicManager\\Infrastructure\\Repositories\\Alumno_padreRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\Alumno_padreRepository.cs",
+              "ToolTip": "C:\\Users\\willy\\OneDrive\\Desktop\\AcademicManager\\AcademicManager\\Infrastructure\\Repositories\\Alumno_padreRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\Alumno_padreRepository.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T22:29:20.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AlumnoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\willy\\OneDrive\\Desktop\\AcademicManager\\AcademicManager\\Infrastructure\\Repositories\\AlumnoRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\AlumnoRepository.cs",
+              "ToolTip": "C:\\Users\\willy\\OneDrive\\Desktop\\AcademicManager\\AcademicManager\\Infrastructure\\Repositories\\AlumnoRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\AlumnoRepository.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T22:28:02.164Z",
               "EditorCaption": ""
             }
           ]

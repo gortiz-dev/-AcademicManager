@@ -166,3 +166,4 @@ C:\Users\willy\OneDrive\Desktop\AcademicManager\AcademicManager\bin\Debug\net10.
 C:\Users\willy\OneDrive\Desktop\AcademicManager\AcademicManager\bin\Debug\net10.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
 C:\Users\willy\OneDrive\Desktop\AcademicManager\AcademicManager\bin\Debug\net10.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
 C:\Users\willy\OneDrive\Desktop\AcademicManager\AcademicManager\obj\Debug\net10.0\AcademicManager.sourcelink.json
+C:\Users\willy\OneDrive\Desktop\AcademicManager\AcademicManager\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
