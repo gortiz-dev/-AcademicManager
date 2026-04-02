@@ -1,6 +1,8 @@
 ﻿namespace AcademicManager.Infrastructure.Data 
 {
+    using AcademicManager.Domain.Entities;
     using Microsoft.Data.SqlClient;
+    using Microsoft.EntityFrameworkCore;
     using Microsoft.Extensions.Configuration;
     using System.Data;
 
@@ -18,5 +20,9 @@
         {
             return new SqlConnection(_connectionString);
         }
+
     }
 }
+
+
+
