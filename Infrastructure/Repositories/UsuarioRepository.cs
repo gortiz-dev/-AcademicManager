@@ -39,6 +39,11 @@ namespace AcademicManager.Infrastructure.Repositories
             throw new NotImplementedException();
         }
 
+        public Task<Usuario?> LoginAsync(string username, string password)
+        {
+            throw new NotImplementedException();
+        }
+
         public Task UpdateAsync(Usuario usuario, int idUsuarioAuditoria)
         {
             throw new NotImplementedException();

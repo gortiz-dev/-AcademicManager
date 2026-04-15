@@ -10,5 +10,6 @@ namespace AcademicManager.Domain.Interfaces
         Task DeleteAsync(int id_usuario, int idUsuarioAuditoria);
         Task<Usuario?> GetByIdAsync(int id_usuario);
         Task<Usuario?> GetByUsernameAsync(string username);
+        Task<Usuario?> LoginAsync(string username, string password);
     }
 }
