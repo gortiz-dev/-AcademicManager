@@ -11,14 +11,15 @@ namespace AcademicManager
             var builder = WebApplication.CreateBuilder(args);
 
             // ========================
-            // Inyección de dependencias
+            // Inyecciï¿½n de dependencias
             // ========================
 
             // Cambiado a Scoped para mejor manejo de conexiones SQL
             builder.Services.AddScoped<DbContextSql>();
 
-            builder.Services.AddScoped<IAlumnoRepository, AlumnoRepository>();
-
+           builder.Services.AddScoped<IAlumnoRepository, AlumnoRepository>();
+           builder.Services.AddScoped<IUsuarioRepository, UsuarioRepository>();
+           builder.Services.AddScoped<IAlumno_padreRepository, Alumno_padreRepository>();
             // ========================
             // Servicios base
             // ========================
